@@ -3,5 +3,10 @@ form{
   min-height: 200px;
   width: 100%;
   margin-top: 40px;
-  padding: 4%;
+  padding: 3%;
+}
+
+.description h1{
+  text-align: center;
+  padding: 2%;
 }
