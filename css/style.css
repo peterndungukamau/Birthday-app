@@ -5,10 +5,11 @@
 }
 
 body{
-  background-image:url(../images/flag9.jpg);
+  background-image:url(../images/flag4.jpg);
   background-repeat:no-repeat;
-  background-position:center center;
-  background-size:contain;
+  background-size:cover;
+  background-attachment:fixed;
+
 }
 
 
@@ -19,7 +20,7 @@ form{
   min-height: 200px;
   width: 100%;
   margin-top: 40px;
-  padding: 3%;
+  padding: 2%;
 }
 
 .description h1{
