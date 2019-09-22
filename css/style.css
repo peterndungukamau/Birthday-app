@@ -4,6 +4,12 @@
   margin:0px;
 }
 
+body{
+  background-image:url(../images/flag3.jpg);
+  background-repeat:no-repeat;
+  background-position:center center;
+}
+
 
 
 form{
@@ -17,4 +23,14 @@ form{
 .description h1{
   text-align: center;
   padding: 2%;
+}
+
+.description p{
+  font-size:18px;
+  font-weight:400;
+}
+
+.description ul{
+  font-size:18px;
+  font-weight:400;
 }
