@@ -4,12 +4,13 @@
   margin:0px;
 }
 
-/*body{
-  background-image:url(../images/flag3.jpg);
+body{
+  background-image:url(../images/flag9.jpg);
   background-repeat:no-repeat;
   background-position:center center;
+  background-size:contain;
 }
-*/
+
 
 
 
