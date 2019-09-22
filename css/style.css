@@ -1,3 +1,11 @@
+*{
+  font-family: 'Montserrat', sans-serif;
+  padding:0px;
+  margin:0px;
+}
+
+
+
 form{
 	background-color: #80747452;
   min-height: 200px;
