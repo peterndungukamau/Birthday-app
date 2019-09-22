@@ -46,20 +46,27 @@ color: white;
 #day{
   border: none;
   padding: 5px;
-  color: white;
+  color: rgb(0, 0, 0);
   border-bottom: solid 1px grey;
 }
 
 #month{
   border: none;
   padding: 5px;
-  color: white;
+  color: rgb(0, 0, 0);
   border-bottom: solid 1px grey;
 }
 
 #year{
   border: none;
   padding: 5px;
-  color: white;
+  color: rgb(0, 0, 0);
   border-bottom: solid 1px grey;
 }
+
+::placeholder {
+  color: rgb(0, 0, 0);
+  font-size:22px;
+  font-weight:400;
+}
+
