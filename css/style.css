@@ -12,15 +12,12 @@ body{
 
 }
 
-
-
-
 form{
 	background-color: white;
   min-height: 200px;
   width: 100%;
   margin-top: 40px;
-  padding: 2%;
+  padding: 1%;
 }
 
 .description h1{
