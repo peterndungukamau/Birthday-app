@@ -13,7 +13,10 @@ Birthday-app is a school project that test my skills and knowledge in javascript
 ## Technologies Used
 HTML 5
 CSS 3
+<<<<<<< HEAD
 Bootstrap
+=======
+>>>>>>> ec3d6883c09822a2e6c7224577afa86936c19dd6
 Javascript
 ## BDD
 * Has a well layout Front-end 
@@ -21,4 +24,8 @@ Javascript
 * The applications takes in users date,month and date and gives them an akan name
 ## Here is the link to the site
 ### License
+<<<<<<< HEAD
 Copyright (c) 2019 **Peter-Kamau**
+=======
+Copyright (c) 2019 **Peter-Kamau**
+>>>>>>> ec3d6883c09822a2e6c7224577afa86936c19dd6
