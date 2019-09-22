@@ -4,16 +4,17 @@
   margin:0px;
 }
 
-body{
+/*body{
   background-image:url(../images/flag3.jpg);
   background-repeat:no-repeat;
   background-position:center center;
 }
+*/
 
 
 
 form{
-	background-color: #80747452;
+	background-color: white;
   min-height: 200px;
   width: 100%;
   margin-top: 40px;
@@ -40,4 +41,25 @@ background-color: red;
 padding: 3px 20px 2px 20px;
 border: none;
 color: white;
+}
+
+#day{
+  border: none;
+  padding: 5px;
+  color: white;
+  border-bottom: solid 1px grey;
+}
+
+#month{
+  border: none;
+  padding: 5px;
+  color: white;
+  border-bottom: solid 1px grey;
+}
+
+#year{
+  border: none;
+  padding: 5px;
+  color: white;
+  border-bottom: solid 1px grey;
 }
