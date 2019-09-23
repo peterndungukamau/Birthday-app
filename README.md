@@ -1,7 +1,7 @@
 # Birthday-app
 ## Peter Ndung'u Kamau a web developer.
 ## Description
-Birthday-app is a school project that test my skills and knowledge in javascript html 5 and css. .Everything concerning my life interests is outlined in this Portfolio. 
+Birthday-app is a school project that test my skills and knowledge in javascript html 5 and css. 
 ## Setup/Installation Requirements
 * Open your terminal (ctrl+alt+T)
 * Initialize git on your terminal
@@ -23,6 +23,7 @@ Javascript
 * Has a well layout back-end
 * The applications takes in users date,month and date and gives them an akan name
 ## Here is the link to the site
+https://peterndungukamau.github.io/Birthday-app/
 ### License
 <<<<<<< HEAD
 Copyright (c) 2019 **Peter-Kamau**
